@@ -22,4 +22,5 @@ Read the Docs
 config.rst
 
 *.czi
+*.tif
 
